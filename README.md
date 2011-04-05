@@ -12,6 +12,10 @@ Example code:
 		return OK;
 	}
 
+Save as `hello.c` and compile it with:
+
+	apxs2 -c hello.c
+
 Example config:
 
 	LoadModule modlet_module /path/to/mod_modlet.so
