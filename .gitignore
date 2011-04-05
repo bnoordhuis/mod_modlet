@@ -1,4 +1,5 @@
 .libs/
-*.slo
 *.l[ao]
+*.slo
+*.so
 *.o
